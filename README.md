@@ -24,3 +24,6 @@ You must install the reshape2 library in order to be able to run this code.
 
 ## Files
 This project revolves arround the zip file downloaded from the link mentioned before. This file contains several files that contain our data, along with files that will be used to understand it. Read the Cookbook.md for more info on the variables used. 
+
+## Running
+The only manual process that you must do is install the reshape2 library if it's not already installed and source it with library(reshape2). From there you can source run_analysys.R so that you can download the files and run the necessary cleaning.
